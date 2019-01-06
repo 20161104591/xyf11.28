@@ -267,7 +267,7 @@
                                 </state>
                                 <connections>
                                     <action selector="touchID:" destination="HPq-hv-w1q" eventType="touchUpInside" id="qfd-YC-5z8"/>
-                                    <segue destination="BYZ-38-t0r" kind="show" id="kk6-N6-Y67"/>
+                                    <segue destination="BYZ-38-t0r" kind="show" identifier="login" id="Oa8-yZ-FDt"/>
                                 </connections>
                             </button>
                         </subviews>

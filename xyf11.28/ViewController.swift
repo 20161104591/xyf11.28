@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         var message = ""
         
         switch errorCode {
-        case LAError.appCancel.rawValue:
+         case LAError.appCancel.rawValue:
             message = "Authentication was cancelled by application"
             
         case LAError.authenticationFailed.rawValue:
